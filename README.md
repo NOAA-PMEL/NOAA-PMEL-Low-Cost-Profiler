@@ -1,4 +1,4 @@
-# NOAA-PMEL-Low-Cost-Profiler
+# NOAA-PMEL-Low Cost Profiler (LCP)
 Open Source Repository for NOAA PMEL's Low Cost Profiler's mechanical design, firmware and electronics hardware.
 
 # Attribution
